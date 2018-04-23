@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Initial page](initial-page.md)
 * 介绍
 * 计算机操作系统
 * 计算机网络
@@ -14,5 +13,4 @@
   * [2018-04-23-huminghao](2018-04-23-huminghao.md)
 * 阿里面试
 * 爱奇艺面试
-* [大疆面试](da-jiang-mian-shi.md)
 
