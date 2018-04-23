@@ -12,6 +12,7 @@
     - 做了全部的设计，和后端的工作
 
 - 架构：
+    - 前后端分离 vue + spring cloud
     - 静态代理 nginx
     - 网关 zuul
     - 服务注册 eureka
@@ -21,8 +22,14 @@
     - wechatkit
     - aliyun 邮件推送
     - redis 计数 + 缓存
+    - 数据库独立
 
 ## 3. 这个平台里面的安全是怎么保证的
+
+- user - role - authority 的角色-权限的权限管理设计
+- 每个平台权限独立，用户平台做总开关
+- spring security 在网关入口做认证
+- spring security 在服务入口做鉴权
 
 ## 4. 里面技术难点是什么
 
