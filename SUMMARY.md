@@ -12,6 +12,7 @@
   * [2018-04-14-shimin](jin-ri-tou-tiao-mian-shi/2018-04-14-shimin.md)
 * [大疆面试](da-jiang-mian-shi.md)
   * [2018-04-23-huminghao](2018-04-23-huminghao.md)
+  * [2018-04-28-huminghao](2018-04-28-huminghao.md)
 * 阿里面试
 * 爱奇艺面试
 * [微软面试](wei-ruan-mian-shi.md)
