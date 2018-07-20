@@ -24,4 +24,6 @@
 * [爱奇艺面试](ai-qi-yi-mian-shi.md)
 * [微软面试](wei-ruan-mian-shi.md)
   * [2018-04-24-huminghao](wei-ruan-mian-shi/2018-04-24-huminghao.md)
+* [百度面试](bai-du-mian-shi.md)
+* [2018-07-18-huminghao](2018-07-18-huminghao.md)
 
